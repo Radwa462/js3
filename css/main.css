@@ -1,0 +1,21 @@
+.content{
+    height: 100vh;
+    background-image: url("../img/th\ \(9\).jpeg");
+    background-size: cover ;
+    background-position: center ;
+    background-attachment: fixed ;
+}
+
+#text{
+    border: 1px solid rgb(78, 124, 122);
+    border-radius: 20px ;
+    color: rgb(196, 235, 240);
+}
+
+.nod-box{
+    padding: 50px 10px 0 ;
+    background-color: rgba(40, 40, 40, 0.732);
+}
+.nod-box{
+    min-height: 450px;
+}
